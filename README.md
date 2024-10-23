@@ -2,6 +2,19 @@ I AM USING A LATE DAY
 
 # CIS 5660 HW03 Procedural Buildings
 
+I decided to use Philly rowhomes as my reference for this project
+
+![strawberrymansion-homes-coltrane-historic03](https://github.com/user-attachments/assets/498f1f12-8d2c-41c6-a03c-09b4a16cd54c)
+
+I referenced [this tutorial](https://www.youtube.com/watch?v=wjBaTY_7teo&t=2976s) to model the windows, doors, and bay windows (instead of the balcony) in Houdini and added a parameter to generate windows with or without shutters. I deviated from Simon's tutorial in that I only added a border on the top floor to resemble a roof.
+
+# Demo
+
+
+https://github.com/user-attachments/assets/c2d99325-1c31-4e8e-87dc-52a01c64ff53
+
+
+
 ## Project Overview
 In this homework you’ll gain more experience with tool creation and loops. The core of this homework will be following a Procedural House tutorial to create a multi-floor building generator. The tutorial is linked here: 
 https://www.youtube.com/watch?v=uIe97023sDk&t=979s&ab_channel=SimonHoudini 
